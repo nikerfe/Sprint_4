@@ -1,3 +1,4 @@
+
 DATA_FOR_ORDER_ONE = {'name': 'Николай',
                   'surname': 'Смирнов',
                   'address': 'Свердловская набережная, 44',
